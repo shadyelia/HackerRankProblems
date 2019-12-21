@@ -1,9 +1,9 @@
-#Angry Professor
+# Angry Professor
 A Discrete Mathematics professor has a class of students. Frustrated with their lack of discipline, he
 decides to cancel class if fewer than students are present when class starts.
 Given the arrival time of each student, determine if the class is canceled.
 
-#Input Format
+# Input Format
 
 The first line of input contains , the number of test cases.
 Each test case consists of two lines. The first line has two space-separated integers, (students in the class)
@@ -18,14 +18,14 @@ Note
 If a student arrives exactly on time , the student is considered to have entered before the class
 started.
 
-#Sample Input
+# Sample Input
 2
 4 3
 -1 -3 4 2
 4 2
 0 -1 2 1
 
-#Sample Output
+# Sample Output
 YES
 NO
 
