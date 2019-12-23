@@ -35,7 +35,7 @@ YES
 
 NO
 
-#Explanation
+Explanation
 For the first test case, . The professor wants at least students in attendance, but only have
 arrived on time ( and ). Thus, the class is canceled.
 For the second test case, . The professor wants at least students in attendance, and there are
