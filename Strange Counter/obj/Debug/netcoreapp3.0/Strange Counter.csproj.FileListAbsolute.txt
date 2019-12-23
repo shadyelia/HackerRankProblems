@@ -1,0 +1,11 @@
+E:\work\HackerRankProblems\Strange Counter\obj\Debug\netcoreapp3.0\Strange Counter.csprojAssemblyReference.cache
+E:\work\HackerRankProblems\Strange Counter\obj\Debug\netcoreapp3.0\Strange Counter.AssemblyInfoInputs.cache
+E:\work\HackerRankProblems\Strange Counter\obj\Debug\netcoreapp3.0\Strange Counter.AssemblyInfo.cs
+E:\work\HackerRankProblems\Strange Counter\bin\Debug\netcoreapp3.0\Strange Counter.exe
+E:\work\HackerRankProblems\Strange Counter\bin\Debug\netcoreapp3.0\Strange Counter.deps.json
+E:\work\HackerRankProblems\Strange Counter\bin\Debug\netcoreapp3.0\Strange Counter.runtimeconfig.json
+E:\work\HackerRankProblems\Strange Counter\bin\Debug\netcoreapp3.0\Strange Counter.runtimeconfig.dev.json
+E:\work\HackerRankProblems\Strange Counter\bin\Debug\netcoreapp3.0\Strange Counter.dll
+E:\work\HackerRankProblems\Strange Counter\bin\Debug\netcoreapp3.0\Strange Counter.pdb
+E:\work\HackerRankProblems\Strange Counter\obj\Debug\netcoreapp3.0\Strange Counter.dll
+E:\work\HackerRankProblems\Strange Counter\obj\Debug\netcoreapp3.0\Strange Counter.pdb
