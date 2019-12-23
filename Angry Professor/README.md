@@ -1,4 +1,5 @@
 # Angry Professor
+
 A Discrete Mathematics professor has a class of students. Frustrated with their lack of discipline, he
 decides to cancel class if fewer than students are present when class starts.
 Given the arrival time of each student, determine if the class is canceled.
@@ -20,13 +21,18 @@ started.
 
 # Sample Input
 2
+
 4 3
+
 -1 -3 4 2
+
 4 2
+
 0 -1 2 1
 
 # Sample Output
 YES
+
 NO
 
 #Explanation
