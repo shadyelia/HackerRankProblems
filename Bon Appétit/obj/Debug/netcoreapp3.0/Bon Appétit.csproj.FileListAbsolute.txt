@@ -1,0 +1,11 @@
+E:\work\HackerRankProblems\Bon Appétit\obj\Debug\netcoreapp3.0\Bon Appétit.csprojAssemblyReference.cache
+E:\work\HackerRankProblems\Bon Appétit\obj\Debug\netcoreapp3.0\Bon Appétit.AssemblyInfoInputs.cache
+E:\work\HackerRankProblems\Bon Appétit\obj\Debug\netcoreapp3.0\Bon Appétit.AssemblyInfo.cs
+E:\work\HackerRankProblems\Bon Appétit\bin\Debug\netcoreapp3.0\Bon Appétit.exe
+E:\work\HackerRankProblems\Bon Appétit\bin\Debug\netcoreapp3.0\Bon Appétit.deps.json
+E:\work\HackerRankProblems\Bon Appétit\bin\Debug\netcoreapp3.0\Bon Appétit.runtimeconfig.json
+E:\work\HackerRankProblems\Bon Appétit\bin\Debug\netcoreapp3.0\Bon Appétit.runtimeconfig.dev.json
+E:\work\HackerRankProblems\Bon Appétit\bin\Debug\netcoreapp3.0\Bon Appétit.dll
+E:\work\HackerRankProblems\Bon Appétit\bin\Debug\netcoreapp3.0\Bon Appétit.pdb
+E:\work\HackerRankProblems\Bon Appétit\obj\Debug\netcoreapp3.0\Bon Appétit.dll
+E:\work\HackerRankProblems\Bon Appétit\obj\Debug\netcoreapp3.0\Bon Appétit.pdb
