@@ -22,7 +22,7 @@ namespace Sock_Merchant
                }
             }
 
-            return sellingSocks.Count;
+            return numberOfMatchedSocks;
          }
 
         static void Main(string[] args)
