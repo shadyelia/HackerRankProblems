@@ -1,4 +1,4 @@
-# Hash Tables: Ransom
+# Hash Tables: Ransom :
 
 Note
 Harold is a kidnapper who wrote a ransom note, but now he is worried it will be traced back to him
@@ -27,35 +27,32 @@ Output Format
 Print Yes if he can use the magazine to create an untraceable replica of his ransom note. Otherwise, print
 No.
 
-# Sample Input 0
-6 4
+# Sample Input 0 :
+* 6 4
+* give me one grand today night
+* give one grand today
 
-give me one grand today night
-give one grand today
+# Sample Output 0 :
+* Yes
 
-# Sample Output 0
-Yes
+# Sample Input 1 :
+* 6 5
+* two times three is not four
+* two times two is four
 
-# Sample Input 1
-6 5
+# Sample Output 1 :
+* No
 
-two times three is not four
-two times two is four
+# Explanation 1 :
+- 'two' only occurs once in the magazine.
 
-# Sample Output 1
-No
+# Sample Input 2 :
+* 7 4
+* ive got a lovely bunch of coconuts
+* ive got some coconuts
 
-Explanation 1
-'two' only occurs once in the magazine.
+# Sample Output 2 :
+* No
 
-# Sample Input 2
-7 4
-
-ive got a lovely bunch of coconuts
-ive got some coconuts
-
-# Sample Output 2
-No
-
-Explanation 2
-Harold's magazine is missing the word .
+# Explanation 2 :
+- Harold's magazine is missing the word .

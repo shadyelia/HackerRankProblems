@@ -1,6 +1,5 @@
 # Simple Text Editor
-
-In this challenge, you must implement a simple text editor. Initially, your editor contains an empty string,
+- In this challenge, you must implement a simple text editor. Initially, your editor contains an empty string,
 . You must perform operations of the following types:
 1. append - Append string to the end of .
 2. delete - Delete the last characters of .
@@ -21,35 +20,24 @@ It is guaranteed that the sequence of operations given as input is possible to p
 Output Format
 Each operation of type must print the character on a new line.
 
-# Sample Input
-8
+# Sample Input :
+* 8
+* 1 abc
+* 3 3
+* 2 3
+* 1 xy
+* 3 2
+* 4
+* 4
+* 3 1
 
-1 abc
+# Sample Output :
+* c
+* y
+* a
 
-3 3
-
-2 3
-
-1 xy
-
-3 2
-
-4
-
-4
-
-3 1
-
-# Sample Output
-
-c
-
-y
-
-a
-
-Explanation
-Initially, is empty. The following sequence of operations are described below:
+# Explanation :
+- Initially, is empty. The following sequence of operations are described below:
 1. . We append to , so .
 2. Print the character on a new line. Currently, the character is c .
 3. Delete the last characters in ( ), so .

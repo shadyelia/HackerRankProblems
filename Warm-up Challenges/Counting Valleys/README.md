@@ -1,6 +1,5 @@
 # Counting Valleys
-
-Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like
+- Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like
 topography. During his last hike, he took exactly steps. For every step he took, he noted if it was an uphill
 or a downhill step. Gary's hikes start and end at sea level. We define the following terms:
 A mountain is a non-empty sequence of consecutive steps above sea level, starting with a step up from
@@ -19,17 +18,14 @@ Output Format
 Print a single integer denoting the number of valleys Gary walked through during his hike.
 
 # Sample Input
-
-8
-
-UDDDUDUU
+* 8
+* UDDDUDUU
 
 # Sample Output
-
-1
+* 1
 
 # Explanation
-If we represent _ as sea level, a step up as / , and a step down as \ , Gary's hike can be drawn as:
+- If we represent _ as sea level, a step up as / , and a step down as \ , Gary's hike can be drawn as:
 _/\ _
 \ /
 \/\/

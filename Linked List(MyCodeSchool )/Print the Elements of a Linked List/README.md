@@ -1,6 +1,5 @@
-# Print the Elements of a Linked List
-
-Print the Elements of
+# Print the Elements of a Linked List :
+- Print the Elements of
 a Linked List
 This challenge is part of a MyCodeSchool tutorial track and is accompanied by a video lesson.
 If you're new to linked lists, this is a great exercise for learning about them. Given a pointer to the head
