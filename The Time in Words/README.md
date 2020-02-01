@@ -1,0 +1,2 @@
+# The Time in Words
+- https://hackerrank-challenge-pdfs.s3.amazonaws.com/6716-the-time-in-words-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1580588341&Signature=%2Fa9ztXipSLA3FViVcgAuFXI14lI%3D&response-content-disposition=inline%3B%20filename%3Dthe-time-in-words-English.pdf&response-content-type=application%2Fpdf
