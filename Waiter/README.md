@@ -1,0 +1,2 @@
+# Waiter
+https://hackerrank-challenge-pdfs.s3.amazonaws.com/15512-waiter-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1581160620&Signature=j5ttcQ6%2Favtav2dePUSZPREiqKU%3D&response-content-disposition=inline%3B%20filename%3Dwaiter-English.pdf&response-content-type=application%2Fpdf
