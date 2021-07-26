@@ -22,17 +22,7 @@ class Result
         int len = w.Length - 1;
         if (len <= 0) return result;
         for (int i = len; i > 0; i--)
-        {
-            if (i == len && w[i] > w[i - 1])
-            {
-                StringBuilder sb = new StringBuilder(w);
-                char temp = sb[i];
-                sb[i] = sb[i - 1];
-                sb[i - 1] = temp;
-                result = sb.ToString();
-                break;
-            }
-
+        {   
             if (w[i] > w[i - 1])
             {
                 char pivot = w[i - 1];
