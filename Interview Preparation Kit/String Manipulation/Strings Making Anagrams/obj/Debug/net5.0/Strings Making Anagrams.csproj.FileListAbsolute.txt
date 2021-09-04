@@ -1,0 +1,16 @@
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\Strings Making Anagrams.exe
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\Strings Making Anagrams.deps.json
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\Strings Making Anagrams.runtimeconfig.json
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\Strings Making Anagrams.runtimeconfig.dev.json
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\Strings Making Anagrams.dll
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\ref\Strings Making Anagrams.dll
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\bin\Debug\net5.0\Strings Making Anagrams.pdb
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.csproj.AssemblyReference.cache
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.AssemblyInfoInputs.cache
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.AssemblyInfo.cs
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.csproj.CoreCompileInputs.cache
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.dll
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\ref\Strings Making Anagrams.dll
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.pdb
+E:\work\HackerRankProblems\Interview Preparation Kit\String Manipulation\Strings Making Anagrams\obj\Debug\net5.0\Strings Making Anagrams.genruntimeconfig.cache

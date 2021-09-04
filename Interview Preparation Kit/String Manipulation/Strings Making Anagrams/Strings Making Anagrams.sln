@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings Making Anagrams", "Strings Making Anagrams.csproj", "{118206EC-0A86-4372-AD4C-3A01294F70FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118206EC-0A86-4372-AD4C-3A01294F70FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118206EC-0A86-4372-AD4C-3A01294F70FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118206EC-0A86-4372-AD4C-3A01294F70FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118206EC-0A86-4372-AD4C-3A01294F70FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C11BC69C-B816-40A6-A4BA-98E3C8E48EC4}
+	EndGlobalSection
+EndGlobal
